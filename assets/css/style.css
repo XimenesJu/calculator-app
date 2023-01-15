@@ -1,3 +1,9 @@
 body {
   background-color: rgb(107, 71, 140);
 }
+
+.calculator {
+  background-color: aliceblue;
+  width: 20%;
+  height: 250px;
+}
