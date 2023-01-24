@@ -2,7 +2,7 @@ body {
   background-color: rgb(107, 71, 140);
 }
 
-.calculator {
+.container {
   background-color: rgb(235, 240, 245);
   width: 200px;
   height: 250px;
