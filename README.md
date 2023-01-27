@@ -1,3 +1,3 @@
 # calculator-app
 
-#### This project aims to explore JS interactivity.
+ This project aims to explore ways to use JS interactivity.
