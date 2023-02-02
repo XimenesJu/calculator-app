@@ -2,6 +2,10 @@ body {
   background-color: rgb(170, 121, 216);
 }
 
+button {
+  border: 1px solid black;
+}
+
 .container {
   background-color: rgb(235, 240, 245);
   width: 200px;
